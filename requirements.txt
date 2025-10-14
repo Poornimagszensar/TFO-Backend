@@ -1,0 +1,13 @@
+duckduckgo-search
+langchain-community
+ddgs
+langchain-experimental
+langchain_ollama
+langgraph
+pydantic
+streamlit
+fastapi
+uvicorn
+langchain_text_splitters 
+langchain_chroma
+pypdf
