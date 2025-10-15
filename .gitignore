@@ -1,0 +1,6 @@
+# Virtual environments
+venv/
+.venv/
+# Python bytecode
+*.pyc
+__pycache__/
